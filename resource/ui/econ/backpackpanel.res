@@ -9,7 +9,7 @@
 
         "item_backpack_ydelta"      "3" // Vertical margin
 
-        "page_button_y"         "332"   // Vertical page number position
+        "page_button_y"         "303"   // Vertical page number position
         "page_button_y_delta"       "3" // Vertical page button offset
         "page_button_height"        "14"
         "item_backpack_offcenter_x" "-300"  // Move items offcenter
@@ -30,7 +30,7 @@
             }
         }
         "modelpanels_kv" {
-            "tall"          "59"
+            "tall"          "53"
             "wide"          "58"
             "model_wide"        ""
             "model_center_x"    "1"

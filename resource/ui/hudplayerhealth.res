@@ -250,4 +250,32 @@
         "font"          "FontBlur60"
         "fgcolor"       "0 0 0 0"
     } 
+	"PlayerStatusMaxHealthValue"
+	{
+		"xpos"			"76"
+		"xpos_minmode"	"76"
+		"ypos"			"20"	[$WIN32]
+		"wide"			"50"
+		"tall"			"18"
+		"textAlignment"	"center"
+		"font"			"FontShadow18"
+		"fgcolor"		"TanDark"
+	}
+	"PlayerStatusMaxHealthValueShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusMaxHealthValueShadow"
+		"xpos"			"77"
+		"xpos_minmode"	"77"
+		"ypos"			"21"	[$WIN32]
+		"zpos"			"6"
+		"wide"			"50"
+		"tall"			"18"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%MaxHealth%"
+		"textAlignment"	"center"	
+		"font"			"FontBlur18"
+		"fgcolor"		"Shadow Color"
+	}
 }

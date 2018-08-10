@@ -2,13 +2,12 @@
 {
     "VersionNumber"
     {
-        "labelText" "17.08.03.0"
+        "labelText" "18.08.09.0"
         "fgcolor"   "TanLight"
     }
     "VersionNumberBlur"
     {
-        "labelText" "17.08.03.0"
+        "labelText" "18.08.09.0"
         "fgcolor"   "Shadow Color"
     }
-
 }

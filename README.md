@@ -4,7 +4,7 @@ The latest in eye-numbers technology! Frame it in your game!
 This assumes you have read the post on TFTV: http://www.teamfortress.tv/28348/introducing-the-mannterface
 
 ### Latest Version
-16.01.16.0
+18.08.09.0
 
 ### Installation
 

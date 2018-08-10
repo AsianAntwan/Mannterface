@@ -1,3 +1,7 @@
+18.08.09.0 …
+Fixed for Blue Moon update. Thanks for iiNexxis for suggesting me
+to fix Mannterface and for playtesting.
+
 17.08.03.0 …
 Literally just a check to see if anything happened that would break this HUD and ta-da! Nothing really!
 

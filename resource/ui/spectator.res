@@ -39,9 +39,12 @@
     }
     "ReinforcementsLabel"
     {
+		"xpos_minmode"	"c-300"
         "ypos_minmode"  "50"     [$WIN32]
         "wide_minmode"  "600"
+		"textAlignment_minmode"		"center"
         "font"          "FontShadow14"
+		"font_minmode"  "FontShadow14"
         "fgcolor_override"       "Damage Numbers"
     }
     

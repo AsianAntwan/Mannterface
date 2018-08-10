@@ -18,14 +18,14 @@
     "BackgroundFooter"
     {
         "xpos"          "0"
-        "ypos"          "435"
-        "tall"          "46"
+        "ypos"          "450"
+        "tall"          "31"
         "fillcolor_override"    "TanDarker"
         "image"         ""
     }
     "FooterLine"
     {
-        "ypos" "r43"
+        "ypos" "r32"
     }
 
     "Sheet"
@@ -33,15 +33,15 @@
         "tabxindent"        "40"    // Left offset of tabs
         "tabxdelta"     "5" // Horizontal offset between buttons
         "tabxfittotext"     "1" // Auto width
-        "tabheight"     "34"
+        "tabheight"     "30"
         "tall"          "460"
-            
+		
         "HeaderLine"
         {
             "ControlName"   "ImagePanel"
             "fieldName"     "HeaderLine"
             "xpos"          "0"
-            "ypos"          "34"
+            "ypos"          "44"
             "zpos"          "6"
             "wide"          "f0"
             "tall"          "10"
@@ -69,27 +69,12 @@
 
     "BackButton"
     {
-        "ControlName"   "CExButton"
-        "fieldName"     "BackButton"
-        "xpos"          "c-330"
-        "ypos"          "445"
-        "zpos"          "2"
+        "xpos"          "c-300"
+        "ypos"          "454"
         "wide"          "150"
         "tall"          "24"
-        "autoResize"        "0"
-        "pinCorner"     "3"
-        "visible"       "1"
-        "enabled"       "1"
-        "tabPosition"       "0"
         "labelText"     "<< Back (&Q)" //"#TF_BackCarat"
         "font"          "Font18"
-        "textAlignment"     "center"
-        "dulltext"      "0"
-        "brighttext"        "0"
-        "default"       "0"
-        "Command"       "back"
-        "sound_depressed"   "UI/buttonclick.wav"
-        "sound_released"    "UI/buttonclickrelease.wav"
     }
 
     "NotificationsPresentPanel"

@@ -1,6 +1,10 @@
 #base "../default_hudfiles/resource/ui/scoreboard.res"
 "Resource/UI/Scoreboard.res"
 {
+	"scores"
+	{
+		"ping_width"		"30"
+	}
     "ClassImage"
     {
         "xpos"          "r0"
@@ -210,10 +214,10 @@
     "BluePlayerList"
     {
         "xpos"          "5"
-        "ypos"          "c-15"
+        "ypos"          "c-18"
         "zpos"          "20"
         "wide"          "310"
-        "tall"          "280"
+        "tall"          "178"
         "linespacing"   "15"
         "linespacing_minmode"   "23"
         "linegap"       "0"
@@ -223,10 +227,10 @@
     "RedPlayerList"
     {
         "xpos"          "325"
-        "ypos"          "c-15"
+        "ypos"          "c-18"
         "zpos"          "20"
         "wide"          "310"
-        "tall"          "280"
+        "tall"          "178"
         "linespacing"   "15"
         "linespacing_minmode"   "23"
         "linegap"       "0"
@@ -267,7 +271,7 @@
         "enabled"       "1"
         "fillcolor"     "TanDarker"
         "alpha"         "235"
-                
+        
         if_mvm
         {
             "visible"       "0"
@@ -457,7 +461,7 @@
         {
             "ControlName"   "CExLabel"
             "fieldName"     "Damage2"
-            "font"          "Font18Shadow"
+            "font"          "FontShadow18"
             "labelText"     "%damage%"
             "textAlignment" "center"
             "xpos"          "215"   [$WIN32]

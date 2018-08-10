@@ -57,7 +57,7 @@
         "wide" "100"
         "tall" "480"
         "xpos_minmode" "c130"
-        "ypos_minmode" "c85"
+        "ypos_minmode" "c65"
         "zpos_minmode"  "-99"
         "wide_minmode" "100"
         "tall_minmode" "480"
@@ -65,9 +65,9 @@
     HudDemomanPipes
     {
         "xpos"          "c85"  [$WIN32]
-        "xpos_minmode"  "c55"  [$WIN32]
-        "ypos"          "267"   [$WIN32]
-        "ypos_minmode"  "267"   [$WIN32]
+        "xpos_minmode"  "c85"  [$WIN32]
+        "ypos"          "285"   [$WIN32]
+        "ypos_minmode"  "285"   [$WIN32]
         "wide"          "150"
         "tall"          "100"
     }

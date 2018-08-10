@@ -1,13 +1,13 @@
 "Resource/UI/HudAchievementTrackerItem.res"
 {	
-	"ItemAttributeProgressPanel"
+	"QuestObjectiveTextPanel"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"ItemAttributeProgressPanel"
+		"fieldName"		"QuestObjectiveTextPanel"
 		"xpos"			"0"		[$WIN32]
 		"ypos"			"0"		[$WIN32]
 		"zpos"			"3"
-		"wide"			"200"
+		"wide"			"250"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"	
